@@ -1,6 +1,6 @@
 # Competition submission
 
-1. From this folder create a venv, install the pinned packages.
+1. From this folder create a venv enviornment, activate it,and then install the pinned packages.
 
    ```sh
    python -m pip install -r requirements.txt
