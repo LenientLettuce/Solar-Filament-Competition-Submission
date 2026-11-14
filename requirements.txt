@@ -1,0 +1,18 @@
+# Versions from the Windows smoke-test environment (Python 3.14.2).
+# Install with python -m pip install -r requirements.txt.
+--extra-index-url https://download.pytorch.org/whl/cu132
+
+ipykernel==7.3.0
+ipython==9.16.1
+jupyter==1.1.1
+matplotlib==3.11.1
+numpy==2.5.2
+opencv-python==5.0.0.93
+pandas==3.0.5
+Pillow==12.3.0
+pycocotools==2.0.11
+torch==2.13.0+cu132
+tqdm==4.70.0
+
+# Used by CUDA training on Windows.
+triton-windows==3.7.1.post27; sys_platform == "win32"
