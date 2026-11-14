@@ -1,0 +1,14 @@
+{
+  "validation_images": 106,
+  "nonempty_drawings": 174,
+  "matched_pairs": 713,
+  "unmatched_gt": 551,
+  "unmatched_pred": 465,
+  "pq": 0.3918367063872254,
+  "median_dice": 0.8068546652793884,
+  "median_iou": 0.6762417554855347,
+  "split_instances": 53,
+  "merged_instances": 18,
+  "drawings_with_splits": 42,
+  "drawings_with_merges": 18
+}
